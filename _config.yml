@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Jiayu Su"
-  avatar           : "JiayuSu_profile.jpg"
+  avatar           : "profile.png"
   bio              : "Senior college student at Peking University, working on computational genomics and single-cell multi-omics."
   location         : "Beijing, China"
   employer         :
