@@ -11,30 +11,34 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Biological Sciences, Peking University, 2020 (expected)
+* B.S. in Mathematics and Applied Mathematics, Peking University, 2020 (expected)
+* Study abroad, University of Chicago, 2018 Fall
 
-Work experience
+
+Research experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2017 Fall - present: Research Assistant
+  * Center for Bioinformatics, Peking University, Beijing
+  * Projects: 
+    * (1) Statistical modeling of single-cell aging (undergraduate thesis project)
+    * (2) Computational modeling and visualization of cell-cell interaction events
+  * Supervisor: [Professor Cheng Li](https://www.ncbi.nlm.nih.gov/pubmed/?term=cheng_li@pku.edu.cn)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2019 Summer: Research Intern
+  * Boston Children's Hospital, Harvard Medical School, Boston
+  * Projects (collaborating with Prof. Cheng Li at PKU):
+    * (1) Single-cell transcriptomic atlas of neutrophils
+    * (2) Neutrophil interactions
+  * Supervisor: [Professor Hongbo Luo](http://www.childrenshospital.org/Research/Labs/luo-laboratory)
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Laguanges: 
+  * Proficient in R and Python
+  * Experience with C, MATLAB and Linux
+* Well-trained in NGS data analyses
+* Familiar with basics of machine learning and deep learning
 
 Publications
 ======
@@ -42,18 +46,3 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
