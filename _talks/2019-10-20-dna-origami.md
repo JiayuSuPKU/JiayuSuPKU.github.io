@@ -1,5 +1,5 @@
 ---
-title: "DNA origami"
+title: "DNA Origami"
 collection: talks
 type: "Journal Club"
 permalink: /talks/2019-10-20-dna-origami
