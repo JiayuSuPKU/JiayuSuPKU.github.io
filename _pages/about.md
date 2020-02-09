@@ -16,7 +16,7 @@ I was an international Student-At-Large (2018) at University of Chicago, and a s
 
 Publications
 ======
-(Preprint) "Single-cell transcriptome profiling reveals neutrophil heterogeneity and orchestrated maturation during homeostasis and bacterial infection" Xuemei Xie*, Qiang Shi*, Peng Wu, Xiaoyu Zhang, Hiroto Kambara, __Jiayu Su__, Hongbo Yu, Shin-Young Park, Rongxia Guo, Qian Ren, Sudong Zhang, Yuanfu Xu, Leslie E. Silberstein, Tao Cheng, Fengxia Ma*, Cheng Li*, Hongbo R. Luo*
+(Preprint) "Single-cell transcriptome profiling reveals neutrophil heterogeneity and orchestrated maturation during homeostasis and bacterial infection" *Xuemei Xie*, *Qiang Shi*, Peng Wu, Xiaoyu Zhang, Hiroto Kambara, __Jiayu Su__, Hongbo Yu, Shin-Young Park, Rongxia Guo, Qian Ren, Sudong Zhang, Yuanfu Xu, Leslie E. Silberstein, Tao Cheng, *Fengxia Ma*, *Cheng Li*, *Hongbo R. Luo*
 
 [Manuscript](https://www.biorxiv.org/content/10.1101/792200v1)
 [Code (only my part)](https://github.com/JiayuSuPKU/Neutrophil_Atlas)
