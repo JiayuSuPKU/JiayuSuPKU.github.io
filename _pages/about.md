@@ -14,7 +14,7 @@ I am a first-year PhD student in System Biology at Columbia University Departmen
 
  Due to the pandemic and visa restrictions, I am temporarily working as a bioinformatics engineer in [GeneDock](https://www.genedock.com/), a cloud computing startup focused on precision medicine and health informatics. Previously, I received my BS in Biological Sciences and BS in Mathematics and Applied Mathematics from Peking University, China. Working as a research assistant under the supervision of [Professor Cheng Li](https://scholar.google.com/citations?user=nJd3cIsAAAAJ&hl=en), I received training and conducted my undergraduate thesis research on statistical modeling of single-cell multi-omics. 
 
-I was a member of the [Undergraduate Honors Program in Biology (UHPB)](http://web.bio.pku.edu.cn/UHPB/) at Peking University (2018-2020), an international Student-At-Large (2018) at University of Chicago, and a summer research assistant (2019) at Harvard Medical School supervised by [Professor Hongbo Luo](http://www.childrenshospital.org/Research/Labs/luo-laboratory).
+I was a member of the [Undergraduate Honors Program in Biology (UHPB)](http://web.bio.pku.edu.cn/UHPB/) at Peking University (2018-2020), an international Student-At-Large at University of Chicago (2018), and a summer research assistant at Harvard Medical School (2019) supervised by [Professor Hongbo Luo](http://www.childrenshospital.org/Research/Labs/luo-laboratory).
 
 Publications
 ======
